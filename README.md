@@ -1,6 +1,6 @@
 # hotel_mgmt_sys_py
 Text based Hotel Management System using Python and MySQL
-#Features
+# Features
 1.Allows user to book room
 2.Allows user to create bills for rooms booked 
 3.Variety of room choices
